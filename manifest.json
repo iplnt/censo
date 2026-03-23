@@ -1,0 +1,15 @@
+{
+  "name": "CENSO - EJIDO SAN ANTONIO",
+  "short_name": "CENSO",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh-ZheEI0cHt3lE1ekUOIIT9uMXZ1XAUaxaMhtBvfQUQ_EQ82-AfkqSFdcXWZ8RkkPQzVSj5nRwW7mxVmpKYCfRfNZE_jppok92a-YQOEsTSIB03ANBvqDri0Jc_iFScPdsH_MO-hx64FbOOKW1ZPFVj_6GFDaR6UP74zwUFeHEGUyrpukcSdzBJ7u8NOLq",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
